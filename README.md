@@ -9,8 +9,8 @@
 <br/>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=enesuzun2002)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=enesuzun2002&theme=radical&border_radius=20)](https://git.io/streak-stats)
+ 
 <br/>
 <h2 align="center">You can reach me from this accounts</h2>
 
