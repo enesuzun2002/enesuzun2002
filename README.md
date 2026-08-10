@@ -38,6 +38,5 @@
 
 ![](https://komarev.com/ghpvc/?username=enesuzun2002)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=enesuzun2002&theme=radical&border_radius=20)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=enesuzun2002&theme=material-palenight&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 </div>
